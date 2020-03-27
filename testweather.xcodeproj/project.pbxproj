@@ -85,7 +85,7 @@
 				B5ED3CCE242DDEAB00C2D176 /* RequestServies */,
 				B5ED3CC9242CF65A00C2D176 /* Assembly */,
 				B5ED3CB6242CE4B200C2D176 /* Presenter */,
-				B5ED3CB1242CE35700C2D176 /* Service */,
+				B5ED3CB1242CE35700C2D176 /* WeatherService */,
 				B5ED3CB0242CE2C400C2D176 /* Views */,
 				B5ED3CAA242CE1C700C2D176 /* Entities */,
 				B5ED3C96242CE10200C2D176 /* AppDelegate.swift */,
@@ -116,14 +116,14 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		B5ED3CB1242CE35700C2D176 /* Service */ = {
+		B5ED3CB1242CE35700C2D176 /* WeatherService */ = {
 			isa = PBXGroup;
 			children = (
 				B5ED3CB2242CE37800C2D176 /* WeatherService.swift */,
 				B5ED3CB4242CE38400C2D176 /* WeatherServiceImpl.swift */,
 				B5ED3CC7242CF10200C2D176 /* WeatherServiceError.swift */,
 			);
-			path = Service;
+			path = WeatherService;
 			sourceTree = "<group>";
 		};
 		B5ED3CB6242CE4B200C2D176 /* Presenter */ = {
