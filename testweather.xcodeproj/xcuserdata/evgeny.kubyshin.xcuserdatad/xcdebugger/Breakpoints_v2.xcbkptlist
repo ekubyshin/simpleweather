@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86D1ABFD-FB9F-4B1F-BDBB-AEA9A8A514D3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FEB8C1C-3035-4ACC-B342-9865343B9E4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testweather/Presenter/WeatherPresenterImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "didLoaded()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FEB8C1C-3035-4ACC-B342-9865343B9E4A - efd78ced8e09d688"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;testweather.WeatherEntity, Swift.Error&gt;) -&gt; () in testweather.WeatherPresenterImpl.didLoaded() -&gt; ()"
+                  moduleName = "testweather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeny.kubyshin/Documents/testweather/testweather/Presenter/WeatherPresenterImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  uuid = "0FEB8C1C-3035-4ACC-B342-9865343B9E4A - efd78ced8e09d688"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;testweather.WeatherEntity, Swift.Error&gt;) -&gt; () in testweather.WeatherPresenterImpl.didLoaded() -&gt; ()"
+                  moduleName = "testweather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeny.kubyshin/Documents/testweather/testweather/Presenter/WeatherPresenterImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "0FEB8C1C-3035-4ACC-B342-9865343B9E4A - efd78ced8e09d688"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;testweather.WeatherEntity, Swift.Error&gt;) -&gt; () in testweather.WeatherPresenterImpl.didLoaded() -&gt; ()"
+                  moduleName = "testweather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeny.kubyshin/Documents/testweather/testweather/Presenter/WeatherPresenterImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "734">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E75836C2-988C-4ED9-A6E0-E36D32C7DAA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testweather/Views/WeatherView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "configure(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
